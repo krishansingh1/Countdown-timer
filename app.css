@@ -12,8 +12,9 @@ body {
 }
 .container {
   display: flex;
+  justify-content: space-around;
   text-align: left;
-  padding: 4.9rem 6rem;
+  padding: 5rem 6.2rem;
 }
 
 .img-container img {
