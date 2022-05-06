@@ -1,5 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: hsl(210, 36%, 96%);
+}
+.container {
+  display: flex;
+  text-align: left;
+  padding: 4.9rem 6rem;
+}
+
+.img-container img {
+  width: 35rem;
 }
