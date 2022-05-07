@@ -19,6 +19,7 @@ body {
 
 .img-container img {
   width: 35rem;
+  /* padding-right: 3rem; */
 }
 
 .main h2 {
