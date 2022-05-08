@@ -113,3 +113,8 @@ p {
   font-weight: bold;
   text-transform: capitalize;
 }
+
+.timer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
