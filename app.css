@@ -129,5 +129,10 @@ p {
   background: hsl(209, 61%, 16%);
 }
 
+.days{
+  color: #fff;
+}
+
 .timer span{
+  
 }
