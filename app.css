@@ -99,13 +99,14 @@ p {
   /* padding-right: 3rem; */
 }
 
-.main h2 {
-  font-size: 1.6rem;
+.main h3 {
+  font-size: 1.8rem;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   color: hsl(205, 72%, 37%);
 }
+
 .align-items {
   color: #222;
 }
@@ -122,17 +123,16 @@ p {
   justify-content: space-evenly;
 }
 
-.timer div{
+.timer div {
   width: 5rem;
   height: 4.8rem;
   color: #fff;
   background: hsl(209, 61%, 16%);
 }
 
-.days{
+.days {
   color: #fff;
 }
 
-.timer span{
-  
+.timer span {
 }
