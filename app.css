@@ -63,7 +63,7 @@ p {
   color: hsl(210, 22%, 49%);
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 992px) {
   h1 {
     font-size: 4rem;
   }
@@ -87,7 +87,7 @@ p {
   }
 }
 
-.container {
+.section-center{
   display: flex;
   justify-content: space-around;
   text-align: left;
