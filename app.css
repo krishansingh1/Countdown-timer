@@ -63,6 +63,16 @@ p {
   color: hsl(210, 22%, 49%);
 }
 
+/* main {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+} */
+
+.img-container{
+  margin-bottom: 2rem;
+}
+
 @media screen and (min-width: 992px) {
   h1 {
     font-size: 4rem;
@@ -88,15 +98,19 @@ p {
 }
 
 .section-center{
-  display: flex;
-  justify-content: space-around;
-  text-align: left;
-  padding: 5rem 6.2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+  gap:3rem;
+  width: 95vw;
 }
 
 .img-container img {
-  width: 35rem;
-  /* padding-right: 3rem; */
+  margin-bottom: 0;
+}
+
+.main{
+  margin: 2rem 0;
 }
 
 .main h3 {
