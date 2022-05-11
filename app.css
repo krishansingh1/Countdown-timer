@@ -107,7 +107,7 @@ p {
   color: hsl(205, 72%, 37%);
 }
 .align-items {
-  color: blue;
+  color: #222;
 }
 
 .main h4 {
@@ -120,4 +120,9 @@ p {
 .timer {
   display: flex;
   justify-content: space-evenly;
+}
+
+.timer div{
+  border:0.2px solid #222;
+  
 }
