@@ -69,6 +69,11 @@ p {
   place-items: center;
 } */
 
+.container{
+  display: grid;
+  
+}
+
 .img-container {
   margin-bottom: 2rem;
 }
