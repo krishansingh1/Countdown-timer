@@ -68,10 +68,15 @@ p {
  margin:5rem auto;
  max-width: 1170px;
 }
-main {
+
+/* main {
   min-height: 80vh;
   display: grid;
   place-items: center;
+} */
+
+.img-container{
+  margin-bottom: 2rem;
 }
 
 @media screen and (min-width: 992px) {
@@ -112,7 +117,7 @@ main {
   margin-bottom: 0;
 }
 
-.main {
+.align-items p{
   margin: 2rem 0;
 }
 
