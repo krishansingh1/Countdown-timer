@@ -63,17 +63,16 @@ p {
   color: hsl(210, 22%, 49%);
 }
 
-/* main {
+.section-center{
+ width: 90vw;
+ margin:5rem auto;
+ max-width: 1170px;
+}
+main {
   min-height: 80vh;
   display: grid;
   place-items: center;
-} */
-
-/* .container{
-  display: grid;
-  text-align: center;
-  justify-content: center;
-} */
+}
 
 @media screen and (min-width: 992px) {
 
