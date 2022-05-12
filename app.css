@@ -64,22 +64,19 @@ p {
 }
 
 /* main {
-  min-height: 100vh;
+  min-height: 80vh;
   display: grid;
   place-items: center;
 } */
 
-.container{
+/* .container{
   display: grid;
-  align-items: center;
-  
-}
-
-.img-container {
-  margin-bottom: 2rem;
-}
+  text-align: center;
+  justify-content: center;
+} */
 
 @media screen and (min-width: 992px) {
+
   h1 {
     font-size: 4rem;
   }
@@ -106,6 +103,7 @@ p {
 .section-center {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  /* justify-content: center; */
   place-items: center;
   gap: 3rem;
   width: 95vw;
