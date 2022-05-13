@@ -172,3 +172,7 @@ p {
   font-size: 2rem;
   margin-bottom: 0.25rem;
 }
+
+@media screen and (min-width:700px){
+  
+}
