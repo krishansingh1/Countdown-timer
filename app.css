@@ -101,6 +101,14 @@ p {
 */
 
 .section-center {
-  display: grid;
-  justify
+  width:90vw;
+  margin: 5rem auto;
+  max-width: 1170px;
 }
+
+
+/*
+##########
+
+#########
+*/
